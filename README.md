@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhait</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" scr="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+
 - 🌱 I’m currently learning **MERN stack, php**
 
 <h3 align="left">Connect with me:</h3>
