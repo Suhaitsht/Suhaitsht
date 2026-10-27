@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090E22,45:39218A,100:1678D3&text=Hi,%20I'm%20Suhait%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Suhait developer banner" />
+<img
+    src="./assets/suhait-developer-banner.svg"
+    alt="Suhait | Full Stack Developer"
+    width="100%"
+  />
 
 ### 🚀 Turning Ideas Into Real Applications
 
