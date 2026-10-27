@@ -1,156 +1,154 @@
 <div align="center">
- <img
-    src="./assets/suhait-developer-banner.svg"
-    alt="Suhait | Full Stack Developer"
-    width="100%"
-  />
- <a href="https://github.com/Suhaitsht">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineering+Undergraduate;Building+Real+World+Applications"
-      alt="Animated developer introduction"
-    />
-  </a>
 
-### 🚀 Turning Ideas Into Real Applications
+<img src="./assets/suhait-developer-banner.svg" alt="Suhait — Full-Stack Developer" width="100%" />
 
-Building useful, accessible web applications and learning to solve real-world problems through code.
 
-<a href="https://github.com/Suhaitsht?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-<a href="https://github.com/Suhaitsht"><img src="https://img.shields.io/badge/GitHub-Suhaitsht-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge" alt="Portfolio coming soon" />
+<a href="https://github.com/Suhaitsht">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Developer;Software+Engineering+Undergraduate;Building+Real-World+Applications" alt="Animated developer introduction" />
+</a>
+
+🚀 Turning Ideas Into Real Applications
+Building useful, accessible web applications and solving real-world problems through code.
+
+<a href="https://github.com/Suhaitsht?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://github.com/Suhaitsht"><img src="https://img.shields.io/badge/Follow_on_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge" alt="Portfolio coming soon" />
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Suhaitsht&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
+👨‍💻 About Me
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-I'm **Suhait**, a Software Engineering undergraduate based in **Sri Lanka 🇱🇰**, passionate about full-stack development and building practical web applications.
-
-- 🎓 Studying **Software Engineering**
-- 💻 Building with **React, Node.js, Express & MongoDB**
-- 🏥 Working on a **Doctor Appointment Management System**
-- 🌱 Improving my **JavaScript, Git, testing and software design** skills
-- 🤝 Open to learning, collaboration and interesting projects
-
+Hi! I'm Suhait, a Software Engineering undergraduate based in Sri Lanka 🇱🇰. I enjoy building practical, user-friendly applications and learning how reliable software is designed, developed, and tested.
+- 🎓 Studying Software Engineering
+- 💻 Working with React, Node.js, Express & MongoDB
+- 🏥 Developing a Doctor Appointment Management System
+- 🌱 Improving my JavaScript, Java, Git, testing & system design skills
+- 🤝 Interested in collaboration and meaningful projects
+- 🎯 Goal: Build maintainable applications that solve real problems
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
-```js
 const suhait = {
   role: "Full-Stack Developer",
   location: "Sri Lanka 🇱🇰",
-  focus: ["MERN", "Software Engineering"],
-  motto: "Build • Learn • Grow • Repeat"
+  stack: ["React", "Node.js", "MongoDB"],
+  mindset: "Build • Learn • Improve"
 };
-```
-
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Technologies I Work With
-
+🛠️ Tech Stack & Tools
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css&theme=dark" alt="JavaScript, React, Tailwind CSS, HTML, CSS" />
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React and Tailwind CSS" />
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql&theme=dark" alt="Node.js, Express, MongoDB, PHP, MySQL" />
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman, Vercel" />
+
+
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql&theme=dark" alt="Node.js, Express, MongoDB, PHP and MySQL" />
+
+
+
+
+Languages & Developer Tools
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,postman,vercel&theme=dark" alt="Java, Git, GitHub, VS Code, Postman and Vercel" />
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
+🌟 Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Doctor Appointment Management System
-**MERN Stack · Full-Stack Web App**
+🏥 Doctor Appointment Management System
+MERN Stack · Full-Stack Application
 
-Patient appointment booking, doctor availability management, and role-based dashboards for patients, doctors and administrators.
+Online patient booking, doctor availability management, and role-based dashboards for patients, doctors, and administrators.
 
-**Status:** Preparing repository and documentation.
-
+Status: Preparing the repository, documentation and demo.
 </td>
 <td width="50%" valign="top">
 
-### 🩸 Online Blood Bank Management System
-**Management System**
+🩸 Online Blood Bank Management System
+Management System
 
-A project focused on managing blood-bank-related information and workflows.
+A project focused on organizing blood-bank information and related workflows.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhaitsht/Online_blood_bank_management_system)
-
+<a href="https://github.com/Suhaitsht/Online_blood_bank_management_system"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Blood Bank repository" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Online Car Rental Management System
-**Management System**
+🚗 Online Car Rental Management System
+Management System
 
-A project focused on car rental management workflows.
+A project exploring car rental operations and management workflows.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhaitsht/Online_Car_Rental_Management_System)
-
+<a href="https://github.com/Suhaitsht/Online_Car_Rental_Management_System"><img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Car Rental repository" /></a>
 </td>
 <td width="50%" valign="top">
 
-### 🧠 React Quiz App
-**React · Interactive UI**
+🧠 React Quiz App
+React · Interactive UI
 
-An interactive quiz application built with React.
+An interactive quiz application developed with React.
 
-[![Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhaitsht/react_quizapp)
-
+<a href="https://github.com/Suhaitsht/react_quizapp"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="React Quiz repository" /></a>
 </td>
 </tr>
 </table>
 
-> 💡 I'm improving project documentation with screenshots, setup steps, architecture diagrams and demos. Live demo links will be added only when available.
+🧩 I'm improving project READMEs with screenshots, setup instructions, architecture diagrams, testing notes, and live demos where available.
 
----
-
-## 📊 GitHub Activity
-
+📊 GitHub Insights
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Suhaitsht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=38BDF8&text_color=E5E7EB" height="170" alt="Suhait GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaitsht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E5E7EB" height="170" alt="Most used repository languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaitsht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E5E7EB" height="170" alt="Languages in public repositories" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaitsht&bg_color=0D1117&color=A5B4FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 
-<sub>These charts are provided by third-party services and may occasionally fail to load. Language statistics reflect public repository code, not necessarily skill level.</sub>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaitsht&bg_color=0D1117&color=A5B4FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
+
+<sub>Stats are generated by third-party services and may occasionally be unavailable. Language breakdown reflects repository code, not proficiency.</sub>
 </div>
 
----
-
-## 🤝 Let's Connect
-
+🐍 Contribution Snake
 <div align="center">
 
-**Have an idea, project, or collaboration opportunity?**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suhaitsht/Suhaitsht/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suhaitsht/Suhaitsht/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Suhaitsht/Suhaitsht/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
+
+<sub>The snake appears after the GitHub Actions workflow generates and publishes the SVG files to the <code>output</code> branch.</sub>
+</div>
+
+🤝 Let's Connect
+<div align="center">
+
+Have an idea or a project worth building?
+I'm always interested in learning, collaborating, and creating useful software.
 
 <a href="https://github.com/Suhaitsht"><img src="https://img.shields.io/badge/GitHub-Connect-111827?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-<a href="https://github.com/Suhaitsht?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+<a href="https://github.com/Suhaitsht?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
-*Build • Learn • Grow • Repeat* 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090E22,45:39218A,100:1678D3" width="100%" alt="Decorative footer" />
+
+Build • Learn • Grow • Repeat 💜
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090E22,45:39218A,100:1678D3" width="100%" alt="Gradient footer" />
 
 </div>
