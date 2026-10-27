@@ -151,4 +151,34 @@ I'm always interested in learning, collaborating, and creating useful software.
 Build • Learn • Grow • Repeat 💜
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090E22,45:39218A,100:1678D3" width="100%" alt="Gradient footer" />
 
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Suhaitsht&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaitsht&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaitsht&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+
+</div>
+
 </div>
