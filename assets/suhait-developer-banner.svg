@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Suhait — Full-Stack Developer</title>
+<desc id="desc">Dark blue and violet developer banner with code editor illustration.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050b1d"/><stop offset=".55" stop-color="#0a1535"/><stop offset="1" stop-color="#160d34"/></linearGradient>
+ <linearGradient id="accent" x2="1"><stop stop-color="#9b5cff"/><stop offset=".55" stop-color="#4f8dff"/><stop offset="1" stop-color="#31e5f3"/></linearGradient>
+ <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#192950"/><stop offset="1" stop-color="#10152e"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5375bc" stroke-opacity=".10"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="35"/></filter>
+ <clipPath id="round"><rect width="1200" height="420" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1200" height="420" fill="url(#bg)"/>
+<circle cx="970" cy="60" r="175" fill="#7046ff" opacity=".19" filter="url(#glow)"/>
+<circle cx="410" cy="400" r="175" fill="#00a8ff" opacity=".12" filter="url(#glow)"/>
+<rect width="1200" height="420" fill="url(#grid)"/>
+<path d="M0 390 Q280 320 590 410 T1200 370" fill="none" stroke="#7b56ed" opacity=".24" stroke-width="2"/>
+<rect x="55" y="45" width="217" height="32" rx="16" fill="#073d3c" stroke="#17bf9b" stroke-opacity=".65"/>
+<circle cx="74" cy="61" r="5" fill="#25edb4"/>
+<text x="89" y="66" fill="#90ffe0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold">OPEN TO COLLABORATE</text>
+<text x="55" y="145" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="bold">Hi, I'm</text>
+<text x="55" y="225" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="900" letter-spacing="-3">SUHAIT</text>
+<text x="57" y="269" fill="#e9f1ff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold">FULL-STACK DEVELOPER</text>
+<text x="57" y="302" fill="#a9b9d9" font-family="Arial, Helvetica, sans-serif" font-size="18">Software Engineering Undergraduate  •  Sri Lanka</text>
+<text x="57" y="350" fill="#71d9ff" font-family="Arial, Helvetica, sans-serif" font-size="17">React  /  Node.js  /  Express  /  MongoDB</text>
+<g transform="translate(740 63)">
+ <rect x="10" y="12" width="390" height="280" rx="18" fill="#030713" opacity=".6"/>
+ <rect width="390" height="280" rx="18" fill="url(#glass)" stroke="#516bb2" stroke-opacity=".75"/>
+ <path d="M0 45H390" stroke="#4d638f" stroke-opacity=".6"/>
+ <circle cx="23" cy="23" r="6" fill="#ff6575"/><circle cx="44" cy="23" r="6" fill="#ffd166"/><circle cx="65" cy="23" r="6" fill="#42d6a4"/>
+ <text x="112" y="29" fill="#879fcf" font-family="monospace" font-size="13">portfolio.jsx</text>
+ <g font-family="monospace" font-size="16">
+  <text x="28" y="85" fill="#bb88ff">const <tspan fill="#77d6ff">developer</tspan> <tspan fill="#ffffff">= {</tspan></text>
+  <text x="51" y="116" fill="#a7c4f5">name: <tspan fill="#82efbb">'Suhait'</tspan><tspan fill="#ffffff">,</tspan></text>
+  <text x="51" y="147" fill="#a7c4f5">role: <tspan fill="#82efbb">'Full-Stack'</tspan><tspan fill="#ffffff">,</tspan></text>
+  <text x="51" y="178" fill="#a7c4f5">stack: <tspan fill="#ffffff">[</tspan><tspan fill="#82efbb">'MERN'</tspan><tspan fill="#ffffff">],</tspan></text>
+  <text x="51" y="209" fill="#a7c4f5">passion: <tspan fill="#82efbb">'Build &amp; Learn'</tspan></text>
+  <text x="28" y="240" fill="#ffffff">};</text>
+ </g>
+</g>
+<text x="1057" y="391" fill="#7389ba" font-family="monospace" font-size="12">&lt;/build&gt;</text>
+</g>
+</svg>
