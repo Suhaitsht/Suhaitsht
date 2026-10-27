@@ -1,12 +1,74 @@
-<h1 align="center">Hi 👋, I'm Suhait</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **MERN stack, php**
+# Hi, I'm Suhait 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Software Engineering Undergraduate · Full-Stack Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Building useful, accessible web applications with modern technologies.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge)](https://github.com/Suhaitsht)
+[![GitHub](https://img.shields.io/badge/GitHub-Suhaitsht-181717?style=for-the-badge&logo=github)](https://github.com/Suhaitsht)
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+- 🎓 Studying Software Engineering
+- 🌍 Based in Sri Lanka
+- 💻 Interested in full-stack development and real-world problem solving
+- 🌱 Continuously improving my JavaScript, React, Node.js, and software engineering skills
+- 🛠️ Currently refining a doctor appointment management system built with the MERN stack
+
+## 🧰 Tech stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Featured projects
+
+| Project | What it does | Link |
+| --- | --- | --- |
+| 🏥 Doctor Appointment Management System | MERN application for patient booking, doctor availability, and administration. | *Repository link coming soon* |
+| 🩸 Online Blood Bank Management System | Blood bank management project. | [View repository](https://github.com/Suhaitsht/Online_blood_bank_management_system) |
+| 🚗 Online Car Rental Management System | Car rental management project. | [View repository](https://github.com/Suhaitsht/Online_Car_Rental_Management_System) |
+| 🧠 React Quiz App | Interactive quiz built with React. | [View repository](https://github.com/Suhaitsht/react_quizapp) |
+
+> **Tip:** Add screenshots, a setup guide, and a live demo link to each project's README. Only publish repositories after removing secrets, credentials, and private data.
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhaitsht&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaitsht&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<sub>Stats cards are generated by a third-party service and may occasionally be unavailable.</sub>
+
+## 🤝 Connect
+
+I'm interested in learning, collaborating, and building useful software.
+
+**GitHub:** [@Suhaitsht](https://github.com/Suhaitsht)
+
+<!-- Add your verified LinkedIn, portfolio URL, and public contact email here. -->
