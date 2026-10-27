@@ -134,7 +134,6 @@ Interactive quiz application developed with React.
   <img src="https://raw.githubusercontent.com/Suhaitsht/Suhaitsht/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
 </picture>
 
-<sub>Snake SVGs appear after the included GitHub Actions workflow successfully publishes them to the <code>output</code> branch.</sub>
 </div>
 
 🤝 Let's Connect
