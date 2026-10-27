@@ -1,10 +1,11 @@
 <div align="center">
 
-<img
-    src="./assets/suhait-developer-banner.svg"
-    alt="Suhait | Full Stack Developer"
-    width="100%"
-  />
+ <a href="https://github.com/Suhaitsht">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Engineering+Undergraduate;Building+Real+World+Applications"
+      alt="Animated developer introduction"
+    />
+  </a>
 
 ### 🚀 Turning Ideas Into Real Applications
 
